@@ -14,5 +14,5 @@ into a computer could be a account safety risk. It could be used to directly inf
 
 # Author & Contributors
 
-CrimsonTorso
-MERRLAX
+* CrimsonTorso - https://github.com/CrimsonTorso
+* MERRLAX - https://github.com/MERRLAX
